@@ -1,0 +1,11 @@
+{
+        "package_path": "com.abiliy.remote.fzu004",
+        "min_sdk_api_level":10068,
+        "developer_id": "",
+        "version_code":1,
+        "create_timestamp": "1684121989960",
+        "entrance_scene":{
+            "action_ids":[],
+            "trigger_ids":[]
+        }
+    }

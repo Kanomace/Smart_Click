@@ -1,0 +1,10 @@
+{
+        "name": "project-com-demo-plugin",
+        "version": "1.0.45",
+        "scripts":{
+            "start":"node ../../bin/runProject.js"
+        },
+        "dependencies":{
+            
+        }
+    }
