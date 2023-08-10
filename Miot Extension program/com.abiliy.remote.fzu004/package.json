@@ -1,0 +1,10 @@
+{
+        "name": "project-com-abiliy-remote-fzu004",
+        "version": "1.0.68",
+        "scripts":{
+            "start":"node ../../bin/runProject.js"
+        },
+        "dependencies":{
+
+        }
+    }

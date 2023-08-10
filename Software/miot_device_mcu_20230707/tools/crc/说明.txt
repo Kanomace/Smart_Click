@@ -1,0 +1,1 @@
+把将要加CRC的文件放入当前文件夹，并改名为"fw.bin"，运行crc.exe，生成的"fw_crc.bin"即为加上crc的固件。
